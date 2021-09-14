@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">scanCam</string>
+    <string name="scan">Scan</string>
+    <string name="displays_user_captured_image">Displays user captured image</string>
+</resources>
